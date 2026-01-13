@@ -1,102 +1,127 @@
-# 🖥️ FunOS  
-### Web Desktop Operating System  
+# 🧠 FunOS
+### A Browser-Based Desktop Operating System  
 **Powered by ZAI**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SRCarlo/funos-powered-by-zai/main/assets/funos-logo.png" width="120" />
-</p>
+---
 
-<p align="center">
-  <strong>A fully client-side desktop OS simulation built with pure HTML, CSS & JavaScript.</strong>
-</p>
+## 🌐 What is FunOS?
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-✔️-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS3-✔️-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/JavaScript-✔️-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/SRCarlo/funos-powered-by-zai?style=for-the-badge">
-</p>
+**FunOS** is a modern, interactive **web desktop environment** that runs entirely inside your browser.  
+It mimics the look and behavior of a real operating system — windows, taskbar, start menu, and apps — using only **HTML, CSS, and Vanilla JavaScript**.
+
+No installs.  
+No frameworks.  
+Just open and run.
 
 ---
 
-## 🚀 Live Demo
+## ⚡ Key Highlights
 
-👉 https://srcarlo.github.io/funos-powered-by-zai/
-
----
-
-## 🎥 Preview
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SRCarlo/funos-powered-by-zai/main/assets/funos-preview.gif" width="800">
-</p>
+✔ Fully client-side (offline capable)  
+✔ Real window manager (drag, resize, minimize, maximize)  
+✔ Desktop icons & start menu  
+✔ Persistent settings using LocalStorage  
+✔ Smooth animations & modern UI  
+✔ Single-file deployment  
 
 ---
 
-## ⬇️ Download (Offline Version)
+## 🧩 Built‑in Applications
 
-### Ready-to-run ZIP  
-https://github.com/SRCarlo/funos-powered-by-zai.git
-
-✔ Works offline  
-✔ No install  
-✔ No dependencies  
-
----
-
-## ✨ Features
-
-- Boot animation  
-- Desktop environment  
-- Start Menu & Taskbar  
-- Window manager (drag, resize, minimize, maximize, close)  
-- LocalStorage persistence  
-
-### 📦 Built-in Apps
-- Calculator  
-- Notepad (auto-save)  
-- Paint Studio  
-- Terminal  
-- Settings  
+- 🧮 **Calculator** – Arithmetic expression engine  
+- 📝 **Notepad** – Auto-saving text editor  
+- 🎨 **Paint** – Canvas-based drawing tool  
+- 💻 **Terminal** – Simulated shell with commands  
+- ⚙️ **Settings** – Wallpaper & personalization  
 
 ---
 
 ## 💻 Terminal Commands
 
-help  
-date  
-clear  
-echo text  
-reboot  
-exit  
+```
+help        Show available commands
+date        Display system date
+clear       Clear terminal output
+echo text   Print text
+reboot      Reload FunOS
+exit        Exit message
+```
 
 ---
 
-## 🛠️ Tech Stack
+## ⬇️ Download & Run
+
+### 🔹 Option 1: Download ZIP
+https://github.com/SRCarlo/funos-powered-by-zai/archive/refs/heads/main.zip
+
+### 🔹 Option 2: Clone Repository
+```bash
+git clone https://github.com/SRCarlo/funos-powered-by-zai.git
+cd funos-powered-by-zai
+open index.html
+```
+
+✔ Works offline  
+✔ No dependencies  
+✔ No build steps  
+
+---
+
+## 🛠️ Technology Stack
 
 - HTML5  
-- CSS3  
-- Vanilla JavaScript  
+- CSS3 (Flexbox, Grid, Animations)  
+- JavaScript (ES6+)  
 - Canvas API  
-- LocalStorage  
+- Browser LocalStorage  
 
 ---
 
-## 📂 Structure
+## 📁 Project Layout
 
-funos-powered-by-zai/  
-├── index.html  
-├── README.md    
+```
+funos-powered-by-zai/
+├── index.html   # Complete FunOS system
+└── README.md
+```
+
+Everything is intentionally bundled into **one HTML file** for simplicity and portability.
+
+---
+
+## 🎯 Use Cases
+
+- Learning OS concepts
+- Web UI experimentation
+- Portfolio project
+- Hackathon demos
+- Offline browser apps
+- Teaching window management logic
+
+---
+
+## 🧠 Philosophy
+
+FunOS is designed to prove that **complex system-like interfaces** can be built using nothing more than **core web technologies**.
+
+Simple. Transparent. Hackable.
+
+---
+
+## 📬 Contact & Author
+
+**Shubham Raut**  
+📧 Email: asphaltshubhuu@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/shubham-raut-865a21203  
+💻 GitHub: https://github.com/SRCarlo  
 
 ---
 
 ## 📜 License
 
-MIT License
+MIT License  
+Free to use, modify, and distribute.
 
 ---
 
-## 🙌 Credits
-
-Created by **SRCarlo**  
-FunOS — powered by **ZAI**
+> FunOS — a fun experiment blending operating systems and the open web 🌍
