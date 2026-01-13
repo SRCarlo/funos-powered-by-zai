@@ -2,6 +2,8 @@
 ### A Browser-Based Desktop Operating System  
 **Powered by ZAI**
 
+FunOS is powered by [ZAI](https://chat.z.ai/) for intelligent assistance.
+
 ---
 
 ## 🌐 What is FunOS?
